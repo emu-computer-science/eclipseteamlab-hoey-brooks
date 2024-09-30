@@ -5,7 +5,12 @@ public class Hungry {
 		System.out.println("We are all hungry!");
 	}
 	
+
 	public static void imHungry() {
 		System.out.println("I'm really hungry!!");
 	}
 }
+
+	
+	
+
